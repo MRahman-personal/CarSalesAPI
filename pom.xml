@@ -8,11 +8,11 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.RevCarSales</groupId>
+	<groupId>com.CarSales</groupId>
 	<artifactId>CarSalesApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RevCarSales</name>
-	<description>RevCarSales</description>
+	<name>CarSalesApi</name>
+	<description>CarSalesApi</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud-gcp.version>5.0.0</spring-cloud-gcp.version>
